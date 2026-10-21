@@ -1,4 +1,4 @@
-package com.example.spin_game
+package com.cvisoft.fourinarow.pixelify
 
 import io.flutter.embedding.android.FlutterActivity
 
