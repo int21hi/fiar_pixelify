@@ -43,7 +43,7 @@ class _AppView extends StatelessWidget {
     final palette = settings.palette;
 
     return MaterialApp(
-      title: 'Four in a Row Retro',
+      title: 'FiarPixel',
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(
         scaffoldBackgroundColor: palette.background,
